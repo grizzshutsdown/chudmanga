@@ -1,0 +1,5 @@
+# Manga Upload Record for Chudly Dreams
+# Format: folder_name|album_url|timestamp|image_count|post_id
+# Generated on: 2026-03-28 01:24:53
+
+Oneshot|https://imgchest.com/p/9249mxzdv7n|2026-03-28 01:24:53|2|9249mxzdv7n
