@@ -7,8 +7,10 @@
   "chapters": {
     "1": {
       "title": "Oneshot",
-      "last_updated": "1774657388",
-      "groups": {}
+      "last_updated": "1774657493",
+      "groups": {
+        "Carrots": "/proxy/api/imgchest/chapter/9249mxzdv7n"
+      }
     }
   }
 }
