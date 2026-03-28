@@ -1,0 +1,6 @@
+title: Chudly Dreams
+description: Flarey Finally finding love...
+artist: Chatgpt
+author: Grizz & Grove
+cover: https://files.catbox.moe/l72v20.png
+groups: Carrots
